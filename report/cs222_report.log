@@ -1,0 +1,488 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.3.28)  11 JAN 2019 23:54
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./cs222_report.tex
+(./cs222_report.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(./acmtog.cls
+Document Class: acmtog 2012/03/07
+(d:/LaTex/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (./url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+\trimheight=\dimen102
+\trimwidth=\dimen103
+\typeheight=\dimen104
+\typewidth=\dimen105
+\normaltextheight=\dimen106
+\blindfoliodrop=\dimen107
+\tempbox=\box26
+\tempdimen=\dimen108
+\normaltextheight=\dimen109
+\c@secnumbookdepth=\count79
+\c@theorem=\count80
+\c@strategy=\count81
+\c@property=\count82
+\c@proposition=\count83
+\c@exam=\count84
+\c@part=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\belowcaptionskip=\skip41
+\tbbox=\box27
+\tabledim=\dimen110
+\@narrowfig=\dimen111
+\@nfigbox=\box28
+\@nfcapbox=\box29
+\@abstract=\box30
+\@terms=\box31
+\@keywords=\box32
+\bibindent=\dimen112
+LaTeX Info: Redefining \cal on input line 1053.
+
+(d:/LaTex/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(d:/LaTex/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup5
+\symboldletters=\mathgroup6
+\symboldsymbols=\mathgroup7
+\symboldlasy=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(d:/LaTex/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/LaTex/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(d:/LaTex/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/LaTex/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(d:/LaTex/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(d:/LaTex/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(d:/LaTex/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(d:/LaTex/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+))
+(d:/LaTex/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip42
+
+For additional information on amsmath, use the `?' option.
+(d:/LaTex/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(d:/LaTex/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen115
+))
+(d:/LaTex/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+LaTeX Info: Redefining \boldsymbol on input line 28.
+\pmbraise@=\dimen116
+)
+(d:/LaTex/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box33
+\strutbox@=\box34
+\big@size=\dimen117
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip11
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks16
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks17
+\eqnshift@=\dimen118
+\alignsep@=\dimen119
+\tagshift@=\dimen120
+\tagwidth@=\dimen121
+\totwidth@=\dimen122
+\lineht@=\dimen123
+\@envbody=\toks18
+\multlinegap=\skip43
+\multlinetaggap=\skip44
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+) (./cs222_report.aux
+
+LaTeX Warning: Label `equ:problem_3' multiply defined.
+
+
+LaTeX Warning: Label `algor' multiply defined.
+
+
+LaTeX Warning: Label `algor' multiply defined.
+
+
+LaTeX Warning: Label `fig:res0' multiply defined.
+
+)
+\openout1 = `cs222_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 29.
+ (d:/LaTex/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\bibhang=\skip45
+
+(d:/LaTex/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count105
+\scratchdimen=\dimen124
+\scratchbox=\box35
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen125
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks21
+) (d:/LaTex/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(d:/LaTex/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(d:/LaTex/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(d:/LaTex/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(d:/LaTex/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(d:/LaTex/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(d:/LaTex/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(d:/LaTex/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(d:/LaTex/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(d:/LaTex/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 46.
+
+(d:/LaTex/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 46.
+
+(d:/LaTex/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 64.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 64.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 64.
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no · in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no · in font ptmr7t!
+
+Underfull \hbox (badness 1215) in paragraph at lines 77--78
+\OT1/ptm/m/n/9 layer, us-ing smaller con-vo-lu-tional ker-nel, some-times it's 
+still
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+<graph/pf_4.png, id=1, 663.98062pt x 231.86626pt>
+File: graph/pf_4.png Graphic file (type png)
+ <use graph/pf_4.png>
+Package pdftex.def Info: graph/pf_4.png used on input line 86.
+(pdftex.def)             Requested size: 199.16928pt x 69.54979pt.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 87.
+
+Overfull \hbox (26.72981pt too wide) in paragraph at lines 111--111
+ []\OT1/ptm/m/n/9 Table I. 
+ []
+
+[1{d:/LaTex/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+Non-PDF special ignored!
+
+
+ <./graph/pf_4.png>]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 116.
+
+<graph/pf_5.png, id=15, 628.59843pt x 76.03406pt>
+File: graph/pf_5.png Graphic file (type png)
+ <use graph/pf_5.png>
+Package pdftex.def Info: graph/pf_5.png used on input line 124.
+(pdftex.def)             Requested size: 251.4349pt x 30.41307pt.
+
+Overfull \hbox (11.4349pt too wide) in paragraph at lines 121--126
+[]
+ []
+
+<graph/pf_6.png, id=16, 352.31625pt x 72.27pt>
+File: graph/pf_6.png Graphic file (type png)
+ <use graph/pf_6.png>
+Package pdftex.def Info: graph/pf_6.png used on input line 133.
+(pdftex.def)             Requested size: 176.15768pt x 36.1349pt.
+
+<graph/pm_1.png, id=17, 319.1925pt x 69.25874pt>
+File: graph/pm_1.png Graphic file (type png)
+ <use graph/pm_1.png>
+Package pdftex.def Info: graph/pm_1.png used on input line 140.
+(pdftex.def)             Requested size: 159.59586pt x 34.62927pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--143
+
+ []
+
+Missing character: There is no Â in font cmr9!
+Missing character: There is no · in font cmr9!
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
+
+ []
+
+
+Overfull \hbox (16.7105pt too wide) detected at line 157
+[] \OML/cmm/m/it/9 f\OT1/cmr/m/n/9 (\OMS/cmsy/m/n/9 f\OML/cmm/m/it/9 W[]\OMS/cm
+sy/m/n/9 gf\OML/cmm/m/it/9 b[]\OMS/cmsy/m/n/9 g\OT1/cmr/m/n/9 ) + [] \OML/cmm/m
+/it/9 g[]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 Z[]\OT1/cmr/m/n/9 )[] []\OML/cmm/m/it/
+9 W[] \OT1/cmr/m/n/9 = \OML/cmm/m/it/9 Z[]; i \OT1/cmr/m/n/9 = 1\OML/cmm/m/it/9
+ ; :::; N[]
+ []
+
+<graph/pm_2.png, id=18, 627.09282pt x 141.52875pt>
+File: graph/pm_2.png Graphic file (type png)
+ <use graph/pm_2.png>
+Package pdftex.def Info: graph/pm_2.png used on input line 160.
+(pdftex.def)             Requested size: 250.83269pt x 56.61049pt.
+
+Overfull \hbox (10.83269pt too wide) in paragraph at lines 160--161
+ [][] 
+ []
+
+<graph/pm_3.png, id=19, 426.84468pt x 103.13531pt>
+File: graph/pm_3.png Graphic file (type png)
+ <use graph/pm_3.png>
+Package pdftex.def Info: graph/pm_3.png used on input line 164.
+(pdftex.def)             Requested size: 256.10878pt x 61.88165pt.
+
+Overfull \hbox (16.10878pt too wide) in paragraph at lines 164--165
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
+
+ []
+
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 175.
+
+Overfull \vbox (0.50241pt too high) has occurred while \output is active []
+
+
+[2 <./graph/pf_5.png> <./graph/pf_6.png> <./graph/pm_1.png> <./graph/pm_2.png> 
+<./graph/pm_3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+<graph/exp_1.png, id=33, 354.6048pt x 682.2288pt>
+File: graph/exp_1.png Graphic file (type png)
+ <use graph/exp_1.png>
+Package pdftex.def Info: graph/exp_1.png used on input line 192.
+(pdftex.def)             Requested size: 230.49037pt x 443.44347pt.
+
+<graph/exp_2.png, id=34, 462.528pt x 479.391pt>
+File: graph/exp_2.png Graphic file (type png)
+ <use graph/exp_2.png>
+Package pdftex.def Info: graph/exp_2.png used on input line 199.
+(pdftex.def)             Requested size: 300.63962pt x 311.60046pt.
+
+Overfull \hbox (60.63962pt too wide) in paragraph at lines 199--200
+ [][] 
+ []
+
+<graph/exp_3.png, id=35, 688.82344pt x 191.21437pt>
+File: graph/exp_3.png Graphic file (type png)
+ <use graph/exp_3.png>
+Package pdftex.def Info: graph/exp_3.png used on input line 206.
+(pdftex.def)             Requested size: 206.64862pt x 57.36475pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<graph/exp4_result.png, id=36, 309.155pt x 684.5575pt>
+File: graph/exp4_result.png Graphic file (type png)
+
+<use graph/exp4_result.png>
+Package pdftex.def Info: graph/exp4_result.png used on input line 215.
+(pdftex.def)             Requested size: 200.94836pt x 444.95709pt.
+
+<graph/exp5_result.png, id=37, 321.2pt x 691.58376pt>
+File: graph/exp5_result.png Graphic file (type png)
+
+<use graph/exp5_result.png>
+Package pdftex.def Info: graph/exp5_result.png used on input line 221.
+(pdftex.def)             Requested size: 208.77753pt x 449.52411pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \vbox (0.50241pt too high) has occurred while \output is active []
+
+
+[3 <./graph/exp_1.png>]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no “ in font ptmr7t!
+
+Underfull \vbox (badness 4120) has occurred while \output is active []
+
+
+Overfull \vbox (0.50241pt too high) has occurred while \output is active []
+
+
+[4 <./graph/exp_2.png> <./graph/exp_3.png> <./graph/exp4_result.png (PNG copy)>
+]
+Overfull \vbox (0.50241pt too high) has occurred while \output is active []
+
+
+[5
+
+ <./graph/exp5_result.png (PNG copy)>] (./cs222_report.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2712 strings out of 492995
+ 34789 string characters out of 6139657
+ 110326 words of memory out of 5000000
+ 6193 multiletter control sequences out of 15000+600000
+ 37137 words of font info for 96 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,9n,25p,836b,330s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/LaTex/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/LaTex/texmf-dist/fonts/t
+ype1/public/amsfonts/cmextra/cmex9.pfb><d:/LaTex/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmi5.pfb><d:/LaTex/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6
+.pfb><d:/LaTex/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><d:/LaTex/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/LaTex/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr9.pfb><d:/LaTex/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><d:/LaTex/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><d:/LaT
+ex/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><d:/LaTex/texmf-dist/fonts/type1
+/urw/times/utmr8a.pfb><d:/LaTex/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on cs222_report.pdf (5 pages, 1332829 bytes).
+PDF statistics:
+ 86 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
