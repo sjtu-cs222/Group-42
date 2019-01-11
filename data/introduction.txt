@@ -1,0 +1,5 @@
+exp2: reconstruct_net
+exp3: reconstruct_net2
+exp3_prune/retrain: reconstruct_net2 partly prune&retain
+exp4_prune/retrain: reconstruct_net2 prune&retrain
+exp5_prune/retrain: reconstruct_net prune&retrain
